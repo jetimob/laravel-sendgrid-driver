@@ -1,5 +1,6 @@
 {
     "name": "s-ichikawa/laravel-sendgrid-driver",
+    "version": "1.0.0",
     "description": "This library adds a 'sendgrid' mail driver to Laravel.",
     "keywords": ["laravel", "sendgrid"],
     "license": "MIT",
