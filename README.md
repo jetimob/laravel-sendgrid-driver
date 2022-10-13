@@ -1,3 +1,7 @@
+#IMPORTANT: This repository it's a fork just to create a hotfix for X-Sendgrid-Message-Id that isn't implemented on the official package. It will be removed in the future once the official package implements a solution.
+
+@parkourben99 presented a solution for that in this [PR](https://github.com/s-ichikawa/laravel-sendgrid-driver/pull/166), but still opened and waiting for merge.
+
 Laravel SendGrid Driver
 ====
 
